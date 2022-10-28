@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hugo-frr
+- 👋 Hi, I’m Hugo !
 - 👀 I’m interested in  le C
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborat  on project
